@@ -47,5 +47,4 @@ object CrashGuard {
             else -> "zyron"
         }
     }
-      }
-      
+}
