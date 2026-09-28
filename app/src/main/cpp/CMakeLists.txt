@@ -1,1 +1,5 @@
-
+cmake_minimum_required(VERSION 3.22.1)
+project(zyron_runtime)
+add_library(zyron_runtime SHARED zyron_runtime.cpp)
+find_library(log-lib log)
+target_link_libraries(zyron_runtime ${log-lib})
