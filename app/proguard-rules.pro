@@ -1,1 +1,3 @@
-
+-keep class com.zyron.client.nativebridge.ZyronNative { *; }
+-keepclasseswithmembernames class * { native <methods>; }
+-dontwarn com.zyron.client.**
