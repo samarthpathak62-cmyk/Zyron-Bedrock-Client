@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Zyron" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/zyron_bg</item>
+        <item name="android:navigationBarColor">@color/zyron_bg</item>
+        <item name="android:windowBackground">@color/zyron_bg</item>
+        <item name="colorPrimary">@color/zyron_accent</item>
+    </style>
+    <style name="Theme.Zyron.Splash" parent="Theme.Zyron" />
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zyron Bedrock Client</string>
+    <string name="overlay_channel">Zyron overlay</string>
+    <string name="overlay_running">Overlay attached. Open the Z button for the client menu.</string>
+</resources>

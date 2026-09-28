@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zyron_bg">#08090B</color>
+    <color name="zyron_surface">#111318</color>
+    <color name="zyron_accent">#8FB8B8</color>
+    <color name="zyron_fg">#E8EAED</color>
+</resources>
